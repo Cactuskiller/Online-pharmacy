@@ -22,4 +22,4 @@ Usage
 <i class="fas fa-user"></i> <!-- Example usage of a user icon -->
 ```
 License
-This project is licensed under the Learning Purpose License (LPL) 
+This project is licensed under the Learning Purpose License (LPL)-View the license file terms<https://github.com/Cactuskiller/Online-pharmacy/blob/main/license>
